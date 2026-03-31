@@ -1,0 +1,5 @@
+{
+  "name": "MeetChat",
+  "description": "A real-time messaging app with meeting keys, typing indicators, and AI-powered chat assistance.",
+  "requestFramePermissions": []
+}
